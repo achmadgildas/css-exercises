@@ -1,5 +1,5 @@
-.button{ font-size:28px; font-family:Helvetica, "Times New Roman", sans-serif; }
+.kuning,.hitam{ font-size:28px; font-family:Helvetica, "Times New Roman", sans-serif; }
 
-#kuning{ color: white; background-color: black; }
+.kuning{ color: white; background-color: black; }
 
-#hitam{ background-color: yellow;}
+.hitam{ background-color: yellow;}
